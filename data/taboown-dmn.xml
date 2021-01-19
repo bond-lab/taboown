@@ -1,0 +1,2825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "http://globalwordnet.github.io/schemas/WN-LMF-1.0.dtd">
+<LexicalResource xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <Lexicon id="taboown-dmn" label="Taboo Wordnet Domains" language="en" email="bond@ieee.org" license="https://creativecommons.org/licenses/by/4.0/" version="1.0" citation="Merrick Choo Yeu Herng and Francis Bond (2021), Taboo Wordnet, GWC 2021" url="https://github.com/bond-lab/taboown" confidenceScore="1.0">
+    <LexicalEntry id="lgbtq">
+      <Lemma writtenForm="LGBTQ+" partOfSpeech="n"/>
+      <Sense id="lgbtq-sns" synset="taboown-lgbtq"/>
+    </LexicalEntry>
+    <Synset id="taboown-00844254-n" ili="i39841" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-lgbtq" ili="" partOfSpeech="n">
+      <Definition>an umbrella term for those who have a non-normative gender and/or sexual identity, including lesbian, gay, bisexual, transgender, intersex, or asexual</Definition>
+    </Synset>
+    <Synset id="taboown-14853947-n" ili="i115114" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-14853947-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-06717170-n" ili="i71809" partOfSpeech="n"/>
+    <Synset id="taboown-07124340-n" ili="i74099" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="domain_topic" target="taboown-14853947-n"/>
+    </Synset>
+    <Synset id="taboown-06718862-n" ili="i71813" partOfSpeech="n"/>
+    <Synset id="taboown-05521514-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+    </Synset>
+    <Synset id="taboown-10147121-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06718862-n"/>
+    </Synset>
+    <Synset id="taboown-10513938-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06718862-n"/>
+    </Synset>
+    <Synset id="taboown-05526384-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="domain_topic" target="taboown-14853947-n"/>
+    </Synset>
+    <Synset id="taboown-05526713-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="domain_topic" target="taboown-14853947-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+    </Synset>
+    <Synset id="taboown-14854581-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-14853947-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-14855635-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-14853947-n"/>
+    </Synset>
+    <Synset id="taboown-10598641-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-01336587-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10039663-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10197525-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-08230906-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10120085-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10801802-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-05521111-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="domain_topic" target="taboown-14853947-n"/>
+    </Synset>
+    <Synset id="taboown-05521636-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00062133-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00849294-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="domain_topic" target="taboown-lgbtq"/>
+    </Synset>
+    <Synset id="taboown-02678738-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00854876-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-09769076-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09976283-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09991530-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10276764-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09889065-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-10663315-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09718652-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-03198500-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-04499300-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-03726116-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-03726233-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00856847-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="domain_topic" target="taboown-lgbtq"/>
+    </Synset>
+    <Synset id="taboown-10076033-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="domain_topic" target="taboown-lgbtq"/>
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10122645-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="domain_topic" target="taboown-lgbtq"/>
+    </Synset>
+    <Synset id="taboown-08477307-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10737860-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10744544-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10763075-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10412669-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10270383-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-10055410-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-08387035-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="domain_topic" target="taboown-14853947-n"/>
+    </Synset>
+    <Synset id="taboown-09952393-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10485440-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00748155-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00759335-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-07487955-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-14038993-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00856733-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-07490214-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00305590-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00424370-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00425740-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00684163-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00738697-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00748307-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-02133207-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-04851715-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-04902925-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-04903368-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-05523420-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-05522456-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-05514081-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="domain_topic" target="taboown-14853947-n"/>
+    </Synset>
+    <Synset id="taboown-05263587-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-05522784-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-09543673-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10200047-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10702483-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10741367-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-03152619-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-03152743-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-03581531-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-04241940-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-05223370-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-09242389-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-09243769-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-09258715-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-09410026-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-09410101-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-13908201-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-04885784-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-14395240-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-04581595-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00773402-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-10279964-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-13370448-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-09620794-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09621232-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-07187996-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09468237-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09847010-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10396337-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-01093855-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10742384-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-13320045-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09976917-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-05457469-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00856193-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-07489714-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-10001882-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-14041106-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-05081057-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-05404336-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-10490141-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-01393024-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-01436003-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-05522283-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-10368798-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-05647015-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-14395403-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-02159955-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10792028-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00019046-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09627462-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09676490-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00365995-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-14321135-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-09833896-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-14457041-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-08955626-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-07488875-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-14035298-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-09921409-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10100761-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10599354-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10667187-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00683185-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-01539022-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-09842823-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-08179205-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10028402-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10409011-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10453357-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-04446521-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="domain_topic" target="taboown-14853947-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-04447028-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="domain_topic" target="taboown-14853947-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-04515991-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="domain_topic" target="taboown-14853947-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10103485-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09815188-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09908025-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10083358-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10153414-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00856342-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-01225027-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00425313-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00737536-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-01880531-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-01961410-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-04850589-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-14497763-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-09978889-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10398487-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-08489627-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="domain_topic" target="taboown-14853947-n"/>
+    </Synset>
+    <Synset id="taboown-00439588-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00439905-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-02570282-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-04891333-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-05647156-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10221040-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00089550-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-05140793-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-14853947-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-06611376-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-14853947-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-13555775-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-14853947-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-14854262-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-14853947-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-13533886-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="domain_topic" target="taboown-14853947-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+    </Synset>
+    <Synset id="taboown-14855724-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-14853947-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+    </Synset>
+    <Synset id="taboown-01514431-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-05399034-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-05554405-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-07844042-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-07844604-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00839597-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-14853947-n"/>
+    </Synset>
+    <Synset id="taboown-00846021-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+    </Synset>
+    <Synset id="taboown-05538215-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="domain_topic" target="taboown-14853947-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+    </Synset>
+    <Synset id="taboown-05559256-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="domain_topic" target="taboown-14853947-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+    </Synset>
+    <Synset id="taboown-10254965-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="domain_topic" target="taboown-lgbtq"/>
+    </Synset>
+    <Synset id="taboown-05538016-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="domain_topic" target="taboown-14853947-n"/>
+    </Synset>
+    <Synset id="taboown-01152396-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-01400044-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-01639105-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-01169704-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-01186428-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-01540693-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-02117170-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00503164-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00559102-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00776523-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00782527-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00794079-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-01762283-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-01762528-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-01772960-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-01807529-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-01807770-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-02116118-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00636891-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-02175980-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00264776-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00312519-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00503321-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00755482-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00964768-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-01156925-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-01259391-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-01998835-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-02403671-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-02424254-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-02424716-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-02425749-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-02426420-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-02448324-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10734129-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09931165-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00511214-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00512261-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-01128103-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-02502578-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09772930-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10609198-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-14044930-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-02132080-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00388747-r" ili="ilimap[pwnid]" partOfSpeech="r">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00449441-r" ili="ilimap[pwnid]" partOfSpeech="r">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-02131072-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-02137538-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-07489059-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-10062716-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-14037925-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-02132224-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-02134397-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00855674-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00138221-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00138734-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-01625893-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00855055-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-03088164-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-04116512-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-15006258-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-15006789-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-02480855-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00855407-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-02193046-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-04274309-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00845523-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00846515-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-05006898-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-07999291-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-04388162-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00407420-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00986027-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-02333546-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-02333819-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-03807537-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-04135315-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-10345422-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-14456138-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-14456435-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-13967581-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-10282482-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-10755257-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-09857007-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="domain_topic" target="taboown-lgbtq"/>
+    </Synset>
+    <Synset id="taboown-03936568-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-03936895-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00855169-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-02892767-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00854000-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-01202813-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="domain_topic" target="taboown-lgbtq"/>
+    </Synset>
+    <Synset id="taboown-10726031-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="domain_topic" target="taboown-lgbtq"/>
+    </Synset>
+    <Synset id="taboown-00857424-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="domain_topic" target="taboown-lgbtq"/>
+    </Synset>
+    <Synset id="taboown-00512843-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-02571536-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09813632-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10013114-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10039391-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00361837-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-02133431-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-02133779-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-04884817-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-14487184-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-05517406-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-10256537-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10660333-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-01088168-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-01207609-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-01209220-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-01215902-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-05149832-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-05693919-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00682662-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-06779096-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="domain_topic" target="taboown-14853947-n"/>
+    </Synset>
+    <Synset id="taboown-09768830-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10059582-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10077593-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10290541-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10368414-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-14391660-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-05387544-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-05388805-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-05552607-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-05553288-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-05553486-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-14416473-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00333366-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-04625284-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-07513508-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-07513795-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-07514345-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-07514520-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-07555014-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-13979503-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-14036356-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-14037011-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-14403107-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-14403560-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-13513747-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00847340-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-10552980-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00848282-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00848466-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-04852534-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-07295955-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00127672-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-08600274-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-13763384-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00355365-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00355524-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00359511-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00388635-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00478830-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00578993-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00612841-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-01323958-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-01325536-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-01325774-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-01326528-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-01566490-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-01600759-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-01615457-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-02146790-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-02223479-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-02423762-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-02482425-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-02483000-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-02558951-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-02748495-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-02760495-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-04834605-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-04887497-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-05953263-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-13471815-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-01053634-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-04980656-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-05714894-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-05306390-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-14061097-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10505942-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-05514410-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-05559727-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="domain_topic" target="taboown-14853947-n"/>
+    </Synset>
+    <Synset id="taboown-13438088-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-14853947-n"/>
+    </Synset>
+    <Synset id="taboown-01825550-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-05037617-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-07417043-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-08548239-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-08617963-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-13940456-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-15291199-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-15295045-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-10694258-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-13540429-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-09965134-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-05558555-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-10327333-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10419047-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10787197-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09845589-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00335653-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00335814-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00742474-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00854717-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00857275-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-10082146-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00388710-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-13886910-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-13887056-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-05554189-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-03825788-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-05554653-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-05554804-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00844847-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-14046202-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-15226214-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-15148295-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00440579-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00441154-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-01336837-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-02571277-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-05098225-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09982873-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-04839676-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-04845684-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-04860369-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00852181-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00169432-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00220956-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00851588-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-01140514-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-01140896-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-04690196-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-05004294-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-05648459-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09879744-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00746866-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00961195-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-01550572-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-01550779-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-02036077-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-14563475-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00583990-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00584626-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00719442-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00959731-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00960971-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-01842304-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-04671841-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-04734885-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-10789118-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09854708-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-07946135-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10272782-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10273064-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10273572-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-00413239-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-01096873-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-05416128-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-14853947-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-14495761-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-14853947-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-14854847-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-14853947-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-14856752-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-14853947-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-15095103-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-14853947-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-14371161-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-14853947-n"/>
+    </Synset>
+    <Synset id="taboown-13515958-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+      <SynsetRelation relType="domain_topic" target="taboown-14853947-n"/>
+    </Synset>
+    <Synset id="taboown-14038185-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-13522611-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-02727281-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00064487-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00564857-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-01232738-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-01249724-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-01277784-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-05524615-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-01800422-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="domain_topic" target="taboown-00844254-n"/>
+    </Synset>
+    <Synset id="taboown-00080861-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+    </Synset>
+    <Synset id="taboown-00225912-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+    </Synset>
+    <Synset id="taboown-00669942-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+    </Synset>
+    <Synset id="taboown-00670530-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+    </Synset>
+    <Synset id="taboown-01127782-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+    </Synset>
+    <Synset id="taboown-01466305-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-01520655-a" ili="ilimap[pwnid]" partOfSpeech="a">
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+    </Synset>
+    <Synset id="taboown-00025144-r" ili="ilimap[pwnid]" partOfSpeech="r">
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+    </Synset>
+    <Synset id="taboown-00032705-r" ili="ilimap[pwnid]" partOfSpeech="r">
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+    </Synset>
+    <Synset id="taboown-00349967-r" ili="ilimap[pwnid]" partOfSpeech="r">
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+    </Synset>
+    <Synset id="taboown-00736786-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+    </Synset>
+    <Synset id="taboown-02804772-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+    </Synset>
+    <Synset id="taboown-03345115-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+    </Synset>
+    <Synset id="taboown-04668139-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-06611856-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+    </Synset>
+    <Synset id="taboown-07305907-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+    </Synset>
+    <Synset id="taboown-09607055-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09607208-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09613559-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+    </Synset>
+    <Synset id="taboown-09631129-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09631463-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09633969-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09637684-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06718862-n"/>
+    </Synset>
+    <Synset id="taboown-09637837-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06718862-n"/>
+    </Synset>
+    <Synset id="taboown-09638009-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06718862-n"/>
+    </Synset>
+    <Synset id="taboown-09638245-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06718862-n"/>
+    </Synset>
+    <Synset id="taboown-09639719-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09641226-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09641422-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09642917-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06718862-n"/>
+    </Synset>
+    <Synset id="taboown-09643078-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09643545-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09643670-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09643799-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09667205-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09680657-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09682122-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06718862-n"/>
+    </Synset>
+    <Synset id="taboown-09698337-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06718862-n"/>
+    </Synset>
+    <Synset id="taboown-09715521-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06718862-n"/>
+    </Synset>
+    <Synset id="taboown-09716439-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06718862-n"/>
+    </Synset>
+    <Synset id="taboown-09720406-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06718862-n"/>
+    </Synset>
+    <Synset id="taboown-09722898-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06718862-n"/>
+    </Synset>
+    <Synset id="taboown-09748239-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09755241-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09756049-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09758643-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09759875-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09760080-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09760290-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09760476-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09772746-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09778537-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09778783-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09783130-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09783369-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09788073-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09792125-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09794917-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09810707-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09813696-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09821253-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09824135-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09826074-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09830926-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09831057-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09831731-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09831962-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09832321-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09832762-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09837088-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09838295-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09839774-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09840871-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09853541-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09858299-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09861059-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09861718-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09862479-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09866661-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09866922-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09867437-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09868782-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09872066-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09874260-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09879297-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09879552-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09879616-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09880741-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09883807-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09883947-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09884305-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09885059-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09886220-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09894909-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09896826-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09896973-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09898797-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09925824-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09929770-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09933324-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+    </Synset>
+    <Synset id="taboown-09935233-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09935351-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09935793-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09953483-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09954879-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09955015-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09958892-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09963159-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09966941-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09972587-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09973903-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09974054-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09977660-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09978566-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09979072-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09985577-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09986532-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09987927-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09995573-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09997939-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09998101-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-09999135-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10000007-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+    </Synset>
+    <Synset id="taboown-10000945-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10002644-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10006842-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10008388-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10008716-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10009671-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10010243-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10018373-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10022759-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10023506-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10025487-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10027590-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10028638-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10029729-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10047199-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10047371-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10047459-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10051337-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10062905-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10070711-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10072546-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10076957-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10085548-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10087255-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10089615-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10091564-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10093167-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10094444-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10096964-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10100314-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10102130-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10103921-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10105085-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10105359-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10109342-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10113583-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10114209-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10114476-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+    </Synset>
+    <Synset id="taboown-10114550-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+    </Synset>
+    <Synset id="taboown-10114897-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10118208-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10121467-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10121952-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10129464-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10133458-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10140683-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10143371-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10144571-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10144730-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10148305-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10152083-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10152440-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10157378-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10157549-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10157744-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+    </Synset>
+    <Synset id="taboown-10160012-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10161178-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10161273-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10162016-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10162104-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10167565-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10169419-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10169607-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10174253-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10175507-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10175725-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10179649-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10180923-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10184081-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10187710-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10188226-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10194566-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10195593-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10196725-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10196845-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10200365-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10201535-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10202531-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10203682-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10204833-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10205714-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10206763-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10209246-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10213652-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10214062-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10219121-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10224295-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10225118-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10228864-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10230432-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10230801-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10240235-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10240921-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10246913-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10257647-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10265281-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10267166-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10274173-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10274318-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10274474-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10280364-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10280598-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10285762-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10286200-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10287082-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10293172-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10296444-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10297367-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10298343-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10302816-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10304278-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10305192-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10306496-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10315730-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10319163-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10321882-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10322391-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10322648-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10327475-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10329337-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10329945-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10330439-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10332110-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10334782-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10336537-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10337300-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10338707-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10339179-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10339350-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10344656-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10350484-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10358124-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10359422-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10362917-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10365846-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10369417-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10379376-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10379758-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10391513-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10395926-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10397142-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10401204-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10407221-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10409322-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10410815-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10411867-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10413688-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10416828-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10416909-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10417168-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10419630-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10421339-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10427467-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10431330-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06718862-n"/>
+    </Synset>
+    <Synset id="taboown-10431907-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10432875-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10433737-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10435367-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10437262-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10439523-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10443170-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10451858-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10454645-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10455915-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10456070-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10463714-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10471859-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10474950-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10477585-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10479493-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10486679-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10487026-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10495555-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10495756-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10497202-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10503247-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10507230-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10511239-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10511425-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10520544-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10522324-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10528969-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10530288-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10531445-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10531838-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10532058-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10532252-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10534389-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10534586-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10536728-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10538853-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10539715-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10542499-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10544480-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10544748-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10545792-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10545940-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10546062-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10549925-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10554666-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10555430-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10561320-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10561736-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10561861-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10567096-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10575089-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10575241-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10575387-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10576962-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10581464-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10581648-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10584973-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10586265-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10586674-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10587378-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10587536-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10588182-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10589243-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10589402-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10590977-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10594147-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10594857-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10601078-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10607478-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10609092-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10610201-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10610850-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10612210-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10615179-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10615334-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10615702-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10615929-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10616048-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10616204-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10616379-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10617024-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10617501-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10618685-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10621514-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10627899-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10638136-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10643095-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10644179-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10655986-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10659393-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10661002-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10663137-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10666615-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10673946-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10683675-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10684146-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10690849-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10691937-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10695555-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10697135-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10707804-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10711641-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10716005-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10716389-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10717921-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10722965-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10723230-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10723474-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10723731-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10727623-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10731244-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10734741-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10737264-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10737717-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10739636-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10740868-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10741152-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10742546-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10743543-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10746056-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10748506-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10752719-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10753546-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10753917-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10754281-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10754449-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10755164-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10758337-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10761693-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10764128-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10766899-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10773527-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10774223-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10775245-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10776339-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10777894-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10779504-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10779897-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10783881-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10784113-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10784281-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10784675-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10786992-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10792178-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10793492-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10802621-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10803463-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10823529-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10834337-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10857001-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10857540-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10881784-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-10967872-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-11077369-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-11079544-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-11114423-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-11147348-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-11162582-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-11190774-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-11211071-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-11218153-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-11264193-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-11334003-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-11353412-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-06717170-n"/>
+    </Synset>
+    <Synset id="taboown-13740765-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+    </Synset>
+    <Synset id="taboown-13773047-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+    </Synset>
+    <Synset id="taboown-14408519-n" ili="ilimap[pwnid]" partOfSpeech="n">
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+    </Synset>
+    <Synset id="taboown-01036047-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+    </Synset>
+    <Synset id="taboown-01426397-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+    </Synset>
+    <Synset id="taboown-01427695-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+    </Synset>
+    <Synset id="taboown-02580577-v" ili="ilimap[pwnid]" partOfSpeech="v">
+      <SynsetRelation relType="exemplifies" target="taboown-07124340-n"/>
+    </Synset>
+  </Lexicon>
+</LexicalResource>
